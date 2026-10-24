@@ -1,0 +1,14 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local scratch files
+*.log
+*.tmp

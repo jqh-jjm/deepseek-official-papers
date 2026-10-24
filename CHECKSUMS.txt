@@ -1,0 +1,5 @@
+# SHA-256 checksums for the PDF files
+# generated 2026-10-24
+
+859b59152186c15ec4e98cb622deecbd2a6c595b1a2023b127662228d066fe21  papers/DeepSeek-Official-Papers-Collection-24-ZH.pdf
+99e6c6ffbf319a06c75988e31dd9368beb27a96c9b490d796d07770b3b98cd5f  papers/DeepSeek-Official-Papers-Collection-24-EN.pdf
