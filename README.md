@@ -51,7 +51,7 @@ DeepSeek-AI 自 2024 年 1 月至 2026 年 9 月公开发表的 **24 篇论文**
 - **克隆仓库**（约 74 MB，建议浅克隆）：
 
   ```bash
-  git clone --depth 1 https://github.com/<你的用户名>/deepseek-official-papers.git
+  git clone --depth 1 https://github.com/jqh-jjm/deepseek-official-papers.git
   ```
 
 - **完整性校验**：见 [`CHECKSUMS.txt`](CHECKSUMS.txt)（SHA-256）。
